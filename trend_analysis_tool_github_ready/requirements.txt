@@ -1,0 +1,7 @@
+praw
+tweepy
+textblob
+gensim
+nltk
+streamlit
+pandas
